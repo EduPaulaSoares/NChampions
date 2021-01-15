@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W5PbUib8d1rvUxv7v6Y06nWAiRKpHQ80f4n8TgoGTrrKETw0Xgl81myURdoyL+1VZVDN1CFcYOOS7DHMRhaTLQ==",
+  "success": true,
+  "projectFilePath": "C:\\src\\NChampions\\NChampions.Domain\\NChampions.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edupa\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\edupa\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

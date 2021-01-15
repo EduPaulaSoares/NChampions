@@ -1,0 +1,17 @@
+C:\src\NChampions\NChampions.Infra\bin\Debug\netcoreapp3.1\NChampions.Infra.deps.json
+C:\src\NChampions\NChampions.Infra\bin\Debug\netcoreapp3.1\NChampions.Infra.runtimeconfig.json
+C:\src\NChampions\NChampions.Infra\bin\Debug\netcoreapp3.1\NChampions.Infra.runtimeconfig.dev.json
+C:\src\NChampions\NChampions.Infra\bin\Debug\netcoreapp3.1\NChampions.Infra.dll
+C:\src\NChampions\NChampions.Infra\bin\Debug\netcoreapp3.1\NChampions.Infra.pdb
+C:\src\NChampions\NChampions.Infra\bin\Debug\netcoreapp3.1\NChampions.Domain.dll
+C:\src\NChampions\NChampions.Infra\bin\Debug\netcoreapp3.1\NChampions.Domain.pdb
+C:\src\NChampions\NChampions.Infra\obj\Debug\netcoreapp3.1\NChampions.Infra.csprojAssemblyReference.cache
+C:\src\NChampions\NChampions.Infra\obj\Debug\netcoreapp3.1\NChampions.Infra.AssemblyInfoInputs.cache
+C:\src\NChampions\NChampions.Infra\obj\Debug\netcoreapp3.1\NChampions.Infra.AssemblyInfo.cs
+C:\src\NChampions\NChampions.Infra\obj\Debug\netcoreapp3.1\NChampions.Infra.csproj.CoreCompileInputs.cache
+C:\src\NChampions\NChampions.Infra\obj\Debug\netcoreapp3.1\NChampions.Infra.csproj.CopyComplete
+C:\src\NChampions\NChampions.Infra\obj\Debug\netcoreapp3.1\NChampions.Infra.dll
+C:\src\NChampions\NChampions.Infra\obj\Debug\netcoreapp3.1\NChampions.Infra.pdb
+C:\src\NChampions\NChampions.Infra\obj\Debug\netcoreapp3.1\NChampions.Infra.genruntimeconfig.cache
+C:\src\NChampions\NChampions.Infra\bin\Debug\netcoreapp3.1\NChampions.Application.dll
+C:\src\NChampions\NChampions.Infra\bin\Debug\netcoreapp3.1\NChampions.Application.pdb

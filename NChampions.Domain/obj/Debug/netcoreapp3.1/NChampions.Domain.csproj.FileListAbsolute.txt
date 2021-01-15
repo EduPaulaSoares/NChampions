@@ -1,0 +1,9 @@
+C:\src\NChampions\NChampions.Domain\bin\Debug\netcoreapp3.1\NChampions.Domain.deps.json
+C:\src\NChampions\NChampions.Domain\bin\Debug\netcoreapp3.1\NChampions.Domain.dll
+C:\src\NChampions\NChampions.Domain\bin\Debug\netcoreapp3.1\NChampions.Domain.pdb
+C:\src\NChampions\NChampions.Domain\obj\Debug\netcoreapp3.1\NChampions.Domain.AssemblyInfoInputs.cache
+C:\src\NChampions\NChampions.Domain\obj\Debug\netcoreapp3.1\NChampions.Domain.AssemblyInfo.cs
+C:\src\NChampions\NChampions.Domain\obj\Debug\netcoreapp3.1\NChampions.Domain.csproj.CoreCompileInputs.cache
+C:\src\NChampions\NChampions.Domain\obj\Debug\netcoreapp3.1\NChampions.Domain.dll
+C:\src\NChampions\NChampions.Domain\obj\Debug\netcoreapp3.1\NChampions.Domain.pdb
+C:\src\NChampions\NChampions.Domain\obj\Debug\netcoreapp3.1\NChampions.Domain.csprojAssemblyReference.cache
